@@ -15,7 +15,7 @@ body {
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
-	color: black;
+	color: white;
 	background-color: black;
 	width: 100vw;
 	height: 100vh;
@@ -46,14 +46,14 @@ body {
 	border-radius: 10px;
 	padding: 5px 10px;
 	font-size: 30px;
-	background-color: #00FFFF;
+	background-color: #87CEFA;
 	outline: none;
-	color: black;
+	color: white;
 	text-decoration: none;
 }
 
 .black h1 {
-	color: #00FFFF;
+	color: #white;
 }
 
 .black p {
